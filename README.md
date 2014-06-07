@@ -1,3 +1,3 @@
 ## README.md
 
-### The first file of datasciencecoyrsera repository 
+### The first file of datasciencecoursera repository 
